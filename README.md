@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Sindam</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<imag align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.81178b47a8598f0c81c4799f2cdd4057?rik=5cuVK%2bfI%2bsPqqw&pid=ImgRaw&r=0">
+<imag align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirasindam&label=Profile%20views&color=0e75b6&style=flat" alt="kirasindam" /> </p>
 
