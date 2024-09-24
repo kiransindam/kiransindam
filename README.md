@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning **Data science Fresher**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kiransindam?tab=repositories](https://github.com/kiransindam?tab=repositories)
-
-- <img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+- <img align="right" alt="coding" src="https://github.com/kiransindam/kiransindam/blob/main/gifgit.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 💬 Ask me about **A highly motivated Data Analyst with a strong background in data analysis, machine learning, and data visualization. Proficient in tools such as Python, SQL, and Excel to clean, analyze, and derive insights from large datasets. Experienced in building dashboards using Tableau and Power BI to facilitate data-driven decision-making. Skilled in ETL, data wrangling, and predictive analytics with hands-on experience in statistical analysis and business intelligence (BI) tools. Seeking to leverage my expertise in data modeling, reporting automation, and quantitative analysis to drive impactful business insights.**
 
@@ -48,18 +47,8 @@
   </div>
 
 <img align="left" src="https://camo.githubusercontent.com/815482eaafa960dcf10a42395a357294764d5e3b1ba823476778f88a3f8afba7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d61736875746f73682d706d69736872612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ashutosh-pmishra" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
+ 
 <img align="center" src="https://camo.githubusercontent.com/9c130d0b45942f3866bc65f70db7694254fc5389ef8b71cbd68c29ca022b0b8b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61736875746f73682d706d697368726126" alt="ashutosh-pmishra" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&amp;" style="max-width: 100%;">
-
 
 <br clear="both">
 <img align="center" 
