@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kiransindam?tab=repositories](https://github.com/kiransindam?tab=repositories)
 
+- <img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 💬 Ask me about **A highly motivated Data Analyst with a strong background in data analysis, machine learning, and data visualization. Proficient in tools such as Python, SQL, and Excel to clean, analyze, and derive insights from large datasets. Experienced in building dashboards using Tableau and Power BI to facilitate data-driven decision-making. Skilled in ETL, data wrangling, and predictive analytics with hands-on experience in statistical analysis and business intelligence (BI) tools. Seeking to leverage my expertise in data modeling, reporting automation, and quantitative analysis to drive impactful business insights.**
 
 - 📫 How to reach me **kiransindam635360@gmail.com**
@@ -26,14 +28,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/"  rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+                                                                                     
+                                                                                     <!-- connect with me  -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kiransindam\" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiransindam\" height="30" width="40" /></a>
+<a href="https://kaggle.com/kiransindam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kiransindam" height="30" width="40" /></a>
+<a href="https://medium.com/@kiransindam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kiransindam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kiransindam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kiransindam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kiran_sindam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiran_sindam" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<div style="display: flex; justify-content: right; align-items: ri;">
+  <div style="margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" width="400" alt="stats graph" />
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" width="400" alt="languages graph" />
+  </div>
 
 <img align="left" src="https://camo.githubusercontent.com/815482eaafa960dcf10a42395a357294764d5e3b1ba823476778f88a3f8afba7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d61736875746f73682d706d69736872612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ashutosh-pmishra" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 
