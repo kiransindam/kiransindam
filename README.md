@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirasindam&label=Profile%20views&color=0e75b6&style=flat" alt="kirasindam" /> </p>
 
-- 🔭 I’m currently working on **Healthcare Analytics**
+- 🔭 I’m currently working on **Customer Churn Analysis project**
 
 - 🌱 I’m currently learning **Data science Fresher**
 
