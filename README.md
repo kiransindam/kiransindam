@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on **machine Learning model**
 
-- 🌱 I’m currently learning **Data science Fresher**
+- 🌱 I’m currently learning **Data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kiransindam?tab=repositories](https://github.com/kiransindam?tab=repositories)
 - <img align="right" alt="coding" src="https://github.com/kiransindam/kiransindam/blob/main/gifgit.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 💬 Ask me about **A highly motivated Data Analyst with a strong background in data analysis, machine learning, and data visualization. Proficient in tools such as Python, SQL, and Excel to clean, analyze, and derive insights from large datasets. Experienced in building dashboards using Tableau and Power BI to facilitate data-driven decision-making. Skilled in ETL, data wrangling, and predictive analytics with hands-on experience in statistical analysis and business intelligence (BI) tools. Seeking to leverage my expertise in data modeling, reporting automation, and quantitative analysis to drive impactful business insights.**
+- 💬 Ask me about **Intermediate Data Scientist with hands-on experience in transforming data into actionable insights. Recently com- pleted comprehensive data science internship and professional development focusing on advanced analytics. Proficient in web scraping, EDA, machine learning, and business intelli- gence tools. Expertise in developing predictive models, cre- ating interactive dashboards, and conducting geospatial data analysis. Strong foundation in Python and SQL with proven ability to deliver data-driven solutions and strategic insights.**
 
 - 📫 How to reach me **kiransindam635360@gmail.com**
 
