@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kiransindam?tab=repositories](https://github.com/kiransindam?tab=repositories)
 - <img align="right" alt="coding" src="https://github.com/kiransindam/kiransindam/blob/main/gifgit.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 - 💬 Ask me about **I’m an Intermediate Data Scientist with hands-on experience in transforming data into actionable insights. I recently completed a comprehensive Data Science internship and professional development program focusing on advanced analytics.**
 
 - 📫 How to reach me **kiransindam635360@gmail.com**
