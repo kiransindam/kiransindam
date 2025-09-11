@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Sindam</h1>
-<h3 align="center">A passionate Data Analyst / Data science from India</h3>
+<h3 align="center">A passionate Data Analyst / Data Scientist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirasindam&label=Profile%20views&color=0e75b6&style=flat" alt="kirasindam" /> </p>
 
 - 🔭 I’m currently working on **machine Learning model**
@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/kiransindam?tab=repositories](https://github.com/kiransindam?tab=repositories)
 - <img align="right" alt="coding" src="https://github.com/kiransindam/kiransindam/blob/main/gifgit.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-- 💬 Ask me about **Intermediate Data Scientist with hands-on experience in transforming data into actionable insights. Recently com- pleted comprehensive data science internship and professional development focusing on advanced analytics. Proficient in web scraping, EDA, machine learning, and business intelli- gence tools. Expertise in developing predictive models, cre- ating interactive dashboards, and conducting geospatial data analysis. Strong foundation in Python and SQL with proven ability to deliver data-driven solutions and strategic insights.**
+- 💬 Ask me about **I’m an Intermediate Data Scientist with hands-on experience in transforming data into actionable insights. I recently completed a comprehensive Data Science internship and professional development program focusing on advanced analytics.**
 
 - 📫 How to reach me **kiransindam635360@gmail.com**
 
