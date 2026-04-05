@@ -36,13 +36,13 @@
 <a href="https://www.leetcode.com/kiran_sindam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiran_sindam" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; justify-content: right; align-items: ri;">
+<!-- <div style="display: flex; justify-content: right; align-items: ri;">
   <div style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" width="400" alt="stats graph" />
   </div>
 <!--   <div style="margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" width="400" alt="languages graph" />
-  </div> -->
+  </div> --> -->
 
 <img align="left" src="https://camo.githubusercontent.com/815482eaafa960dcf10a42395a357294764d5e3b1ba823476778f88a3f8afba7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d61736875746f73682d706d69736872612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="ashutosh-pmishra" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
  
