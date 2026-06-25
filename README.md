@@ -116,7 +116,7 @@ Currently exploring:
 
 ## 📫 Connect With Me
 
-* LinkedIn: (https://www.linkedin.com/in/kiransindam/)
+* LinkedIn: https://www.linkedin.com/in/kiransindam
 * GitHub: https://github.com/kiransindam
 * Email: [kiransindamwork@gmail.com](mailto:kiransindamwork@gmail.com)
 
